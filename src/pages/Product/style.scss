@@ -1,0 +1,12 @@
+.product {
+  margin: 20px 0;
+  @media only screen and (max-width: 1366px) {
+    margin: 0 12px;
+  }
+
+  &__pagination {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+}

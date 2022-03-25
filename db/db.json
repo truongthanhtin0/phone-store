@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Điện thoại Samsung Galaxy Z Fold3 5G 256GB",
+      "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/226935/samsung-galaxy-z-fold-3-silver-1-600x600.jpg",
+      "price": 38990000,
+      "rate": 5,
+      "description": "ABCDE",
+      "category": 2
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại Samsung Galaxy Z Fold3 5G 256GB",
+      "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/226935/samsung-galaxy-z-fold-3-silver-1-600x600.jpg",
+      "price": 12000000,
+      "rate": 4,
+      "description": "ABCDE",
+      "category": 4
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "product_id": 2,
+      "quantity": 5
+    }
+  ]
+}
